@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://rbp01.realme.net/GT_2/RMX3310_11_A_OTA_0200_all_0265bb_CN.zip
+  ROM_NAME: ossi
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
